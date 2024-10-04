@@ -1,0 +1,253 @@
+{
+    "PlayerData": [
+        {
+            "ID": 1,
+            "Forename": "Marcus",
+            "Surname": "Rashford",
+            "ClubID": 1,
+            "ImageURL": "<insert_image_url>",
+            "Potential": 99,
+            "Rating": 85
+        },
+        {
+            "ID": 2,
+            "Forename": "Bruno",
+            "Surname": "Fernandes",
+            "ClubID": 1,
+            "ImageURL": "<insert_image_url>",
+            "Potential": 99,
+            "Rating": 87
+        },
+        {
+            "ID": 3,
+            "Forename": "Casemiro",
+            "Surname": "",
+            "ClubID": 1,
+            "ImageURL": "<insert_image_url>",
+            "Potential": 99,
+            "Rating": 86
+        },
+        {
+            "ID": 4,
+            "Forename": "Jhon",
+            "Surname": "Durran",
+            "ClubID": 1,
+            "ImageURL": "<insert_image_url>",
+            "Potential": 99,
+            "Rating": 81
+        }
+    ],
+    "ClubData": [
+        {
+            "ID": 1,
+            "Name": "Manchester United",
+            "ShortName": "MUN",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/en/d/da/Manchester_United_FC_crest.svg"
+        },
+        {
+            "ID": 2,
+            "Name": "Arsenal",
+            "ShortName": "ARS",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/en/9/9b/Arsenal_FC.svg"
+        },
+        {
+            "ID": 3,
+            "Name": "Aston Villa",
+            "ShortName": "AVL",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/en/a/a4/Aston_Villa_FC_crest.svg"
+        },
+        {
+            "ID": 4,
+            "Name": "Bournemouth",
+            "ShortName": "BOU",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/en/2/29/AFC_Bournemouth.svg"
+        },
+        {
+            "ID": 5,
+            "Name": "Brentford",
+            "ShortName": "BRE",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/en/0/06/Brentford_FC.svg"
+        },
+        {
+            "ID": 6,
+            "Name": "Brighton & Hove Albion",
+            "ShortName": "BHA",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/en/b/b2/Brighton_&_Hove_Albion_FC_crest.svg"
+        },
+        {
+            "ID": 7,
+            "Name": "Chelsea",
+            "ShortName": "CHE",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/en/5/57/Chelsea_FC.svg"
+        },
+        {
+            "ID": 8,
+            "Name": "Crystal Palace",
+            "ShortName": "CRY",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/en/a/a3/Crystal_Palace_FC_logo.svg"
+        },
+        {
+            "ID": 9,
+            "Name": "Everton",
+            "ShortName": "EVE",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/en/2/20/Everton_FC_logo.svg"
+        },
+        {
+            "ID": 10,
+            "Name": "Fulham",
+            "ShortName": "FUL",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/en/0/0e/Fulham_FC.svg"
+        },
+        {
+            "ID": 11,
+            "Name": "Liverpool",
+            "ShortName": "LIV",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg"
+        },
+        {
+            "ID": 12,
+            "Name": "Luton Town",
+            "ShortName": "LUT",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/en/8/82/Luton_Town_FC.png"
+        },
+        {
+            "ID": 13,
+            "Name": "Manchester City",
+            "ShortName": "MCI",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/en/e/e0/Manchester_City_FC_badge.svg"
+        },
+        {
+            "ID": 14,
+            "Name": "Newcastle United",
+            "ShortName": "NEW",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/en/3/39/Newcastle_United.svg"
+        },
+        {
+            "ID": 15,
+            "Name": "Nottingham Forest",
+            "ShortName": "NFO",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/en/2/24/Nottingham_Forest_FC_logo.svg"
+        },
+        {
+            "ID": 16,
+            "Name": "Sheffield United",
+            "ShortName": "SHU",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/en/e/e4/Sheffield_United_FC_logo.svg"
+        },
+        {
+            "ID": 17,
+            "Name": "Tottenham Hotspur",
+            "ShortName": "TOT",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/en/e/e6/Tottenham_Hotspur.svg"
+        },
+        {
+            "ID": 18,
+            "Name": "West Ham United",
+            "ShortName": "WHU",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/en/6/6c/West_Ham_United_FC.svg"
+        },
+        {
+            "ID": 19,
+            "Name": "Wolverhampton Wanderers",
+            "ShortName": "WOL",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/en/5/51/Wolverhampton_Wanderers.svg"
+        }
+    ],
+    "LeagueData": [
+        {
+            "ID": 28,
+            "Name": "Premier League",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/en/2/2a/Premier_League_logo.svg"
+        }
+    ],
+    "CupData": [
+        {
+            "ID": 1,
+            "Name": "FA Cup",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/en/3/3f/FA_Cup.svg"
+        },
+        {
+            "ID": 2,
+            "Name": "EFL Cup",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/en/7/7a/EFL_Cup_logo.png"
+        }
+    ],
+    "StadiumData": [
+        {
+            "ID": 1,
+            "Name": "Old Trafford"
+        },
+        {
+            "ID": 2,
+            "Name": "Emirates Stadium"
+        },
+        {
+            "ID": 3,
+            "Name": "Villa Park"
+        },
+        {
+            "ID": 4,
+            "Name": "Vitality Stadium"
+        },
+        {
+            "ID": 5,
+            "Name": "Brentford Community Stadium"
+        },
+        {
+            "ID": 6,
+            "Name": "Amex Stadium"
+        },
+        {
+            "ID": 7,
+            "Name": "Stamford Bridge"
+        },
+        {
+            "ID": 8,
+            "Name": "Selhurst Park"
+        },
+        {
+            "ID": 9,
+            "Name": "Goodison Park"
+        },
+        {
+            "ID": 10,
+            "Name": "Craven Cottage"
+        },
+        {
+            "ID": 11,
+            "Name": "Anfield"
+        },
+        {
+            "ID": 12,
+            "Name": "Kenilworth Road"
+        },
+        {
+            "ID": 13,
+            "Name": "Etihad Stadium"
+        },
+        {
+            "ID": 14,
+            "Name": "St. James' Park"
+        },
+        {
+            "ID": 15,
+            "Name": "City Ground"
+        },
+        {
+            "ID": 16,
+            "Name": "Bramall Lane"
+        },
+        {
+            "ID": 17,
+            "Name": "Tottenham Hotspur Stadium"
+        },
+        {
+            "ID": 18,
+            "Name": "London Stadium"
+        },
+        {
+            "ID": 19,
+            "Name": "Molineux Stadium"
+        }
+    ]
+}
