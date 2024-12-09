@@ -1,0 +1,51 @@
+{
+    "PlayerData": [
+        {
+            "ID": 1,
+            "Forename": "Eberechi",
+            "Surname": "Eze",
+            "ClubID": 1,
+            "Potential": 95,
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 2,
+            "Forename": "Dean",
+            "Surname": "Henderson",
+            "ClubID": 2,
+            "Potential": 93,
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 3,
+            "Forename": "Adam",
+            "Surname": "Wharton",
+            "ClubID": 3,
+            "Potential": 99,
+            "ImageURL": "<insert imageurl>"
+        }
+    ],
+    "ClubData": [
+        {
+            "ID": 1,
+            "Name": "Crystal Palace",
+            "ShortName": "CRY",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 2,
+            "Name": "Nottingham Forest",
+            "ShortName": "NFO",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 3,
+            "Name": "Blackburn Rovers",
+            "ShortName": "BBR",
+            "ImageURL": "<insert imageurl>"
+        }
+    ],
+    "LeagueData": [],
+    "CupData": [],
+    "StadiumData": []
+}
